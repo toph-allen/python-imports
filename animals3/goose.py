@@ -1,2 +1,2 @@
 def speak():
-    return "honk honk honk"
+    return "honk"*3

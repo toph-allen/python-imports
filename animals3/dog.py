@@ -1,2 +1,2 @@
 def speak():
-    return "woof woof woof"
+    return "woof"*3
