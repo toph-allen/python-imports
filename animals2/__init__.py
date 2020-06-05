@@ -1,3 +1,1 @@
-from . import cat
-from . import dog
-from . import goose
+print("Hi, I'm __init__.py")
