@@ -9,10 +9,10 @@ import animals1
 animals1.dog.speak()
 # dir(animals1)
 
-from animals1 import dog
-dog.speak()
-# dir(animals1)
-animals1.dog.speak()
+# from animals1 import dog
+# dog.speak()
+# # dir(animals1)
+# animals1.dog.speak()
 
 animals1.cat.speak()
 import animals1.cat
@@ -20,11 +20,9 @@ animals1.cat.speak()
 cat.speak()
 
 
-
 # Example 2 -- non-empty __init__.py
 
 import animals2
-
 
 
 # Example 3 -- importing a package just sources __init__.py
